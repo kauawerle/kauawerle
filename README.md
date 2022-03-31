@@ -1,7 +1,7 @@
 # Hey! Eu sou Kauã Werle
 
 - 🧑‍💻 Hoje sou programador Full Stack
-- 📚 Estudando NodeJs e Nuxt
+- 📚 Estudando Docker
 - 💻 Trabalhando na Digitaldoc
 
 <div align="center">
