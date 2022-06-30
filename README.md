@@ -1,7 +1,7 @@
 # Hey! Eu sou Kauã Werle
 
 - 🧑‍💻 Hoje sou programador Full Stack
-- 📚 Estudando Testes End to End
+- 📚 Virando um Jedi no FrontEnd e um Sith no Backend
 - 💻 Trabalhando na Digitaldoc
 
 <div align="center">
