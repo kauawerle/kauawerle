@@ -1,6 +1,6 @@
 # Hey! Eu sou Kauã Werle
 
-- 🧑‍💻 Hoje sou programador Full Stack
+- 🧑‍💻 Criador do Dream RPG
 - 📚 Virando um Jedi no FrontEnd e um Sith no Backend
 - 💻 Trabalhando na Digitaldoc
 
