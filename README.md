@@ -2,7 +2,7 @@
 
 - 🧑‍💻 Criador do Dream RPG
 - 📚 Virando um Jedi no FrontEnd e um Sith no Backend
-- 💻 Trabalhando na Digitaldoc
+- 💻 Open to Work
 
 <div align="center">
   <a href="https://github.com/kauawerle">
