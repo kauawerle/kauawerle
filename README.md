@@ -1,7 +1,7 @@
 # Hey! Eu sou Kauã Werle
 
 - 🧑‍💻 Criador do Dream RPG
-- 📚 Virando um Jedi no FrontEnd e um Sith no Backend
+- 📚 Virando um Jedi no FrontEnd e um Sith no Backend 
 - 💻 Open to Work
 
 <div align="center">
