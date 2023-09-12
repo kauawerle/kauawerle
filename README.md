@@ -1,6 +1,6 @@
 # Hey! Eu sou Kauã Werle
 
-- 🧑‍💻 Criador do Dream RPG
+- 🧑‍💻 Criador do Trash-it
 - 📚 Virando um Jedi no FrontEnd e um Sith no Backend 
 - 💻 Optimize Deals
 
