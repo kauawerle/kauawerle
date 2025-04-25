@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=455&lines=Fala Dev! Beleza?;Eu+sou+Kauã.)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=455&lines=FalaDev!Beleza?;Eu+sou+Kauã.)](https://git.io/typing-svg)
 
 - 🧑‍💻 Criador do Trash-it
 - 📚 Virando um Jedi no FrontEnd e um Sith no Backend 
