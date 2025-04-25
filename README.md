@@ -1,4 +1,4 @@
-# Hey! Eu sou Kauã Werle
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+Ola%2C+%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF.;Eu+sou+Kauã.)](https://git.io/typing-svg)
 
 - 🧑‍💻 Criador do Trash-it
 - 📚 Virando um Jedi no FrontEnd e um Sith no Backend 
